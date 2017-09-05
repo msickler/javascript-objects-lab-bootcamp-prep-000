@@ -1,1 +1,1 @@
-Objects = { recipes: 'ingredients' }
+recipes = {};
